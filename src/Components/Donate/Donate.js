@@ -5,7 +5,7 @@ import "../Donate/Donate.css";
 //Caltulate the total Donation
 const Donate = (props) => {
   const { donate } = props;
-  console.log(donate.id);
+  // console.log(donate.id);
   let total = 0;
   for (const product of donate) {
     total = total + product.price;
@@ -18,7 +18,7 @@ const Donate = (props) => {
   let catName = [];
   for (const product of catAdded) {
     catName = catName + product;
-    console.log(catAdded);
+    // console.log(catAdded);
   }
 
   return (
