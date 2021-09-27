@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": "Persian-Cat",
+    "origin": "France",
+    "price": 650,
+    "age": "6-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/AmericanBobtail_body_6.jpg?itok=JYmdZhAt"
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": "American Bobtail Cat",
+    "origin": "Germany",
+    "price": 850,
+    "age": "4-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/AmericanCurlSHA_body_6.jpg?itok=1-yoW3el"
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": "Birman Cat",
+    "origin": "England",
+    "price": 600,
+    "age": "11-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/AmericanWirehair_body_6.jpg?itok=LgJxqcDn"
+  },
+  {
+    "id": 4,
+    "gender": "male",
+    "name": "Bengal Cat",
+    "origin": "Bangladesh",
+    "price": 700,
+    "age": "8-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/Birman_body_6.jpg?itok=sxZZT4Xl"
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": "Bombay Cat",
+    "origin": "Asian",
+    "price": 660,
+    "age": "7-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/Bengal_body_6.jpg?itok=HoyVWkCr"
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": "Chartreux Cat",
+    "origin": "Canada",
+    "price": 580,
+    "age": "7-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/BritishShorthair_body_6.jpg?itok=HbvjI0u8"
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": "Egyptian Mau Cat",
+    "origin": "Egypt",
+    "price": 950,
+    "age": "9-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/Chartruese_body_6.jpg?itok=BRVxtf4e"
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": "Japanese Bobtail Cat",
+    "origin": "Japanese",
+    "price": 855,
+    "age": "2-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/EuropeanBurmese_body_7.jpg?itok=b7LT66dZ"
+  },
+  {
+    "id": 9,
+    "gender": "female",
+    "name": "Exotic Shorthair Cat",
+    "origin": "France",
+    "price": 679,
+    "age": "3-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/Himilayan_body_6.jpg?itok=kfHPy_Fe"
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": "European Burmese Cat",
+    "origin": "America",
+    "price": 820,
+    "age": "10-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/JapaneseBobtailSHOddEyed_body_6.jpg?itok=NKs7mhNI"
+  },
+  {
+    "id": 11,
+    "gender": "male",
+    "name": "Himalayan Cat",
+    "origin": "Indian",
+    "price": 990,
+    "age": "6-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/ManxSH_body_6.jpg?itok=Xx6lRcVZ"
+  },
+  {
+    "id": 12,
+    "gender": "female",
+    "name": "Maine Coon Cat",
+    "origin": "Russia",
+    "price": 460,
+    "age": "11-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/MaineCoon_body_7.jpg?itok=dRYTKE9a"
+  },
+  {
+    "id": 13,
+    "gender": "female",
+    "name": "Manx Cat",
+    "origin": "Italy",
+    "price": 750,
+    "age": "7-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/Exotic_body_6.jpg?itok=IdEWppKD"
+  },
+  {
+    "id": 14,
+    "gender": "male",
+    "name": "LaPerm Cat",
+    "origin": "Korean",
+    "price": 960,
+    "age": "8-Months",
+    "picture": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_240/public/EgyptianMau_body_7.jpg?itok=1D09dag-"
+  }
+]

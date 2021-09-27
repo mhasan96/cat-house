@@ -1,0 +1,21 @@
+.cat-list {
+  margin-top: 5px;
+  /* margin-bottom: 100px; */
+}
+.cat-image {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-left: 60px;
+  /* width: 250px; */
+}
+.btn-donate {
+  margin-bottom: 0x;
+}
+.cat-list2 {
+  border-radius: 20px;
+  background-color: lightgray;
+}
+p {
+  margin: 5px;
+}
